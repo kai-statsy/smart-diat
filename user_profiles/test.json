@@ -1,0 +1,12 @@
+{
+    "userProfile": {
+        "calories": 2200,
+        "carbs": 275,
+        "protein": 138,
+        "fats": 65,
+        "number_of_meals_per_day": 4
+    },
+    "diet_plan": {
+        "2024-10-05": "### Fr\u00fchst\u00fcck\n- **Haferflocken mit Milch und Obst**\n  - Haferflocken: 50g (190 kcal, 31g Kohlenhydrate, 7g Protein, 3.5g Fett)\n  - Milch (1,5%): 200ml (98 kcal, 10g Kohlenhydrate, 7g Protein, 5g Fett)\n  - Banane: 1 mittelgro\u00dfe (105 kcal, 27g Kohlenhydrate, 1g Protein, 0g Fett)\n  \n### Mittagessen\n- **H\u00e4hnchenbrust mit Quinoa und Gem\u00fcsesalat**\n  - H\u00e4hnchenbrust: 150g (165 kcal, 0g Kohlenhydrate, 31g Protein, 3.6g Fett)\n  - Quinoa: 70g gekocht (120 kcal, 21g Kohlenhydrate, 4g Protein, 2g Fett)\n  - Gemischter Salat: 1 Portion (50 kcal, 10g Kohlenhydrate, 2g Protein, 0.5g Fett)\n\n### Nachmittags-Snack\n- **Joghurt mit N\u00fcssen**\n  - Naturjoghurt: 150g (95 kcal, 6g Kohlenhydrate, 6g Protein, 3g Fett)\n  - Mandeln: 20g (115 kcal, 4g Kohlenhydrate, 4g Protein, 10g Fett)\n  \n### Abendessen\n- **Gummib\u00e4rchen**\n  - Gummib\u00e4rchen: 1 Packung 200g (680 kcal, 160g Kohlenhydrate, 6g Protein, 0g Fett)\n\n### Gesamtn\u00e4hrwerte\n- **Kalorien**: ungef\u00e4hr 2213 kcal\n- **Kohlenhydrate**: ungef\u00e4hr 295g\n- **Protein**: ungef\u00e4hr 98g\n- **Fett**: ungef\u00e4hr 27.6g\n\n*Hinweis: Der Proteinbedarf wurde nicht vollst\u00e4ndig gedeckt, w\u00e4hrend die Kohlenhydrate \u00fcber dem Tagesbedarf liegen. Eine ausgewogene Ern\u00e4hrung sollte im Allgemeinen die richtige Balance aller Makron\u00e4hrstoffe sicherstellen. Ber\u00fccksichtigen Sie dies bei Ihrer weiteren Ern\u00e4hrung.*"
+    }
+}
